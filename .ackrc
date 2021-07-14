@@ -1,0 +1,2 @@
+--ignore-dir=var/
+--ignore-dir=vendor/
